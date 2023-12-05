@@ -2,7 +2,7 @@
 
 Switches, routers, network configurations galore!
 
-Big thanks to ***Dr. Godwin Monserate*** & ***Archival Sebial***!
+Big thanks to the networKINGS ***Dr. Godwin Monserate*** & ***Archival Sebial***!
 
 👑
 🦾💻🦾
