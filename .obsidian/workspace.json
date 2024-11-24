@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "257e112025d2e74b",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f1c894c5c4673a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7207632a34e5996d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CONFIGURATIONUM_RETIACULUM.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONFIGURATIONUM_RETIACULUM"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88851c94486984b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b12348610bf8aeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a40a805a6c40740",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4e0bf529c33539d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2704eb1e113e7ba4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a968142c91595aa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc9ef8288a9cfe6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcd1ed4fcd296890",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CONFIGURATIONUM_RETIACULUM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CONFIGURATIONUM_RETIACULUM"
+            }
+          },
+          {
+            "id": "c66452fae544d9c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CONFIGURATIONUM_RETIACULUM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CONFIGURATIONUM_RETIACULUM"
+            }
+          },
+          {
+            "id": "c507c38dccc63d02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a0978fdd101ddbcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CONFIGURATIONUM_RETIACULUM.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CONFIGURATIONUM_RETIACULUM"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7207632a34e5996d",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "CONFIGURATIONUM_RETIACULUM.md",
+    "README.md"
+  ]
+}
